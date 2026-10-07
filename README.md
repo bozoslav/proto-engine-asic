@@ -1,2 +1,7 @@
-# proto-engine-asic
-A tiny deterministic instruction engine for cycle-accurate programmable digital protocols, targeting IHP CMOS5L / Tiny Tapeout.
+# PinVM
+
+PinVM is a programmable digital protocol engine being developed
+for Jane Street's Protocol Emulator ASIC Competition.
+
+The design is implemented in Hardcaml and generates synthesizable
+Verilog for the Tiny Tapeout IHP CMOS5L flow.
