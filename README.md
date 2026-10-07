@@ -1,6 +1,6 @@
-# PinVM
+# Proto Engine Asic
 
-PinVM is a programmable digital protocol engine being developed
+Proto Engine Asic is a programmable digital protocol engine being developed
 for Jane Street's Protocol Emulator ASIC Competition.
 
 The design is implemented in Hardcaml and generates synthesizable
