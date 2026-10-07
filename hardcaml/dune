@@ -1,0 +1,5 @@
+(library
+ (name proto_engine)
+ (libraries core hardcaml)
+ (preprocess
+  (pps ppx_hardcaml ppx_jane)))

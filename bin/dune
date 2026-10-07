@@ -1,0 +1,5 @@
+(executable
+ (name generate)
+ (libraries core hardcaml proto_engine)
+ (preprocess
+  (pps ppx_jane)))
